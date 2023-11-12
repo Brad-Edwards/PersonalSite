@@ -1,0 +1,4 @@
+baseURL = 'https://bradedwards.tech'
+languageCode = 'en-us'
+title = 'Brad Edwards'
+theme = 'hugo-resume'
