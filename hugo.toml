@@ -137,3 +137,4 @@ target = "$1"
 unsafe = true
 [markup.highlight]
 style = 'base16-snazzy'
+
